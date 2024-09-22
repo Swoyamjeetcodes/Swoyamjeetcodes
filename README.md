@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on FrontEnd
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on FrontEnd
-- 📫 How to reach me:
- - swoyamjeetmain@gmail.com
+- 📫 How to reach me: - swoyamjeetmain@gmail.com
  - https://www.instagram.com/_.swoyamjeet._/
  - https://www.linkedin.com/in/swoyamjeetsahu/
 - 😄 Pronouns: He/Him
