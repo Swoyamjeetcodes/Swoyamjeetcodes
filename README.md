@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/hello i am jeet.svg" height="500" width="1000" style="display: block; margin: 0 auto; margin-bottom: 0;"/>
+  <img src="./assets/hello i am jeet.png"  style="display: block; margin: 0 auto; margin-bottom: 0;"/>
 
   <!-- Reduce margin even further -->
-  <div style="margin-top: -175px; display: flex; justify-content: center; gap: 10px;">
+  <div style=" display: flex; justify-content: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/taehyun-hwang-876631201">
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
     </a>
