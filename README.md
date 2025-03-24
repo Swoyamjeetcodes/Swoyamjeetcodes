@@ -43,7 +43,7 @@
   <div align=center>
   <a href="https://github.com/Swoyamjeetcodes?tab=repositories"><img align="left" height="170" width=495 src="https://streak-stats.demolab.com?user=Swoyamjeetcodes&mode=weekly&theme=radical" alt="GitHub Streak" /></a>
 
-  [![Swoyamjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swoyamjeetcodes&show_icons=true&theme=radical&hide=stars))](https://github.com/Swoyamjeetcodes?tab=repositories)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Swoyamjeetcodes&theme=radical&mode=weekly)](https://github.com/Swoyamjeetcodes?tab=repositories)
   </div>
 </p>
 <p>
