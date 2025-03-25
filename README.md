@@ -2,7 +2,7 @@
   <img src="./assets/hello i am jeet.png"  style="display: block; margin: 0 auto; margin-bottom: 0;"/>
 
   <!-- Reduce margin even further -->
-  <div style=" display: flex; justify-content: center; gap: 10px;">
+  <div style=" display: flex; justify-content: center; gap: 20px;">
     <a href="https://www.linkedin.com/in/taehyun-hwang-876631201">
       <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
     </a>
@@ -61,10 +61,10 @@
 
 <h2 align="center">👨‍💻Top Repositories 👨‍💻</h2>
 <br>
-
+<div style=" display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/Swoyamjeetcodes/coptimize" title="coptimize"><img allign="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=coptimize&theme=radical&border_radius=10"></a>
   <a href="https://github.com/Swoyamjeetcodes/MINI-PROJECT" title="MINI-PROJECT"><img allign="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=MINI-PROJECT&theme=radical&border_radius=10"></a>
-
+</div>
 <br/><br/>
 
 <h4 align="center">
