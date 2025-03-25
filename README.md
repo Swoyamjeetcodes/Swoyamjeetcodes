@@ -38,17 +38,16 @@
   <a href="https://git-scm.com/doc" target="_blank"><code><img title="Git" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code></a>
   <a href="https://docs.github.com/" target="_blank"><code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code></a>
 </p>
-<h2>⚡ Stats ⚡</h2>
-<p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
   <div align=center>
-  <a href="https://git.io/streak-stats"><img align="left" height="170" width=495 src="https://streak-stats.demolab.com?user=Swoyamjeetcodes&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Swoyamjeetcodes&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
 
   [![Swoyamjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swoyamjeetcodes&show_icons=true&theme=radical&hide=stars))](https://github.com/Swoyamjeetcodes?tab=repositories)
+  <a href="https://github.com/Swoyamjeetcodes?tab=repositories"><img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swoyamjeetcodes&layout=compact&theme=radical&hide=c"/>
   </div>
-</p>
-<p>
-  <div style=" display: flex; justify-content: center; gap: 90px;">
-    <a href="https://github.com/Swoyamjeetcodes?tab=repositories"><img align="left" height="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swoyamjeetcodes&layout=compact&theme=radical&hide=c" /></a> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swoyamjeetcodes&theme=radical&hide_border=false&line=FE428E&bg_color=141321&title_color=FE428E"  height="300" width=750 />
-  </div>
+  </a> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swoyamjeetcodes&theme=radical&hide_border=false&line=FE428E&bg_color=141321&title_color=FE428E"/>
 </p>
