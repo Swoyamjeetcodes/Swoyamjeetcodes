@@ -59,23 +59,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swoyamjeetcodes&theme=radical&hide_border=false&line=FE428E&bg_color=141321&title_color=FE428E" width="100%"/>
 </p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻Top Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Swoyamjeetcodes/coptimize" title="coptimize"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=coptimize&theme=radical&border_radius=10"></a>
-  <a align="right" href="https://github.com/Swoyamjeetcodes/MINI-PROJECT" title="MINI-PROJECT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=MINI-PROJECT&theme=radical&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Swoyamjeetcodes/Apple-Music-Discord-RPC-modified" title="Apple-Music-Discord-RPC-modified"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=Apple-Music-Discord-RPC-modified&theme=radical&border_radius=10"></a>
-  <a align="right" href="https://github.com/Swoyamjeetcodes/Auto-Use-GIT-LFS-for-Files-Above-100MB" title="Auto-Use-GIT-LFS-for-Files-Above-100MB"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=Auto-Use-GIT-LFS-for-Files-Above-100MB&theme=radical&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Swoyamjeetcodes/UrbanSteps-KExplore" title="UrbanSteps-KExplore"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=UrbanSteps-KExplore&theme=radical&border_radius=10"></a>
-  <a align="right" href="https://github.com/Swoyamjeetcodes/DSA" title="DSA"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=DSA&theme=radical&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+
+  <a align="left" href="https://github.com/Swoyamjeetcodes/coptimize" title="coptimize"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=coptimize&theme=radical&border_radius=10"></a>
+  <a align="right" href="https://github.com/Swoyamjeetcodes/MINI-PROJECT" title="MINI-PROJECT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=MINI-PROJECT&theme=radical&border_radius=10"></a>
+
+<br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/Swoyamjeetcodes?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
