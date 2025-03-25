@@ -17,17 +17,24 @@
     </a>
   </div>
 </div>
-
-  # **About Me**
-- 🔭 I’m currently working on FrontEnd
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on FrontEnd
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Computer “bug” was inspired by a real insect‍ <br>
-
-<h2 >🔥 Tech Stack🔥</h2>
 <br>
-<p>
+
+<p align="center">
+  <h1 align="center" >About Me</h2>
+    <ul align="center">
+        <li>🔭 I’m currently working on FrontEnd
+        <li>🌱 I’m currently learning JavaScript
+        <li>👯 I’m looking to collaborate on FrontEnd
+        <li>😄 Pronouns: He/Him
+        <li>⚡ Fun fact: Computer “bug” was inspired by a real insect‍
+    </ul>
+
+</p>
+ <br>
+
+<h2 align="center" >🔥 Tech Stack🔥</h2>
+<br>
+<p align="center">
   <a href="https://devdocs.io/c/" target="_blank"><code><img title="C" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code></a>
   <a href="https://cplusplus.com/doc/" target="_blank"><code><img title="C++" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code></a>
   <a href="https://docs.python.org/3/" target="_blank"><code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code></a>
