@@ -53,7 +53,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Swoyamjeetcodes&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
 
   [![Swoyamjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swoyamjeetcodes&show_icons=true&theme=radical&hide=stars)](https://github.com/Swoyamjeetcodes?tab=repositories)
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swoyamjeetcodes&theme=radical&hide_border=false&line=FE428E&bg_color=141321&title_color=FE428E" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swoyamjeetcodes&theme=radical&hide_border=false&line=FE428E&bg_color=141321&area=true&area_color=FF69B4&title_color=FE428E&days=10" width="100%"/>
   <a href="https://github.com/Swoyamjeetcodes?tab=repositories"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swoyamjeetcodes&layout=compact&theme=radical&hide=c"/>
   </div>
   </a> 
