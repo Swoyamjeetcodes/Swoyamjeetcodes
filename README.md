@@ -62,8 +62,8 @@
 <h2 align="center">👨‍💻Top Repositories 👨‍💻</h2>
 <br>
 
-  <a align="left" href="https://github.com/Swoyamjeetcodes/coptimize" title="coptimize"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=coptimize&theme=radical&border_radius=10"></a>
-  <a align="right" href="https://github.com/Swoyamjeetcodes/MINI-PROJECT" title="MINI-PROJECT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=MINI-PROJECT&theme=radical&border_radius=10"></a>
+  <a href="https://github.com/Swoyamjeetcodes/coptimize" title="coptimize"><img allign="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=coptimize&theme=radical&border_radius=10"></a>
+  <a href="https://github.com/Swoyamjeetcodes/MINI-PROJECT" title="MINI-PROJECT"><img allign="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=MINI-PROJECT&theme=radical&border_radius=10"></a>
 
 <br/><br/>
 
