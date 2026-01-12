@@ -47,3 +47,4 @@ Passionate front-end developer with a strong foundation in web technologies, inc
 # Repositories
 <a href="https://github.com/Swoyamjeetcodes?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 
+![snake gif](https://github.com/Swoyamjeetcodes/Swoyamjeetcodes/blob/output/github-snake-dark.svg)
