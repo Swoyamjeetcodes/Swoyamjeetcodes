@@ -1,72 +1,49 @@
-<div align="center">
-  <img src="./assets/hello i am jeet.png"  style="display: block; margin: 0 auto; margin-bottom: 0;"/>
+# 💫 About Me:
+Passionate front-end developer with a strong foundation in web technologies, including HTML, CSS, JavaScript, Tailwind, and React.<br>
 
-  <!-- Reduce margin even further -->
-  <div style=" display: flex; justify-content: center; gap: 20px;">
-    <a href="https://www.linkedin.com/in/taehyun-hwang-876631201">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
-    </a>
-    <a href="https://twitter.com/eeht1717">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true">
-    </a>
-    <a href="mailto:work.swoyamjeetsahu@gmail.com">
-      <img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1">
-    </a>
-    <a href="https://github.com/Swoyamjeetcodes" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Follow%20Me-GitHub-%23181717?style=for-the-badge&logo=github" alt="Follow me on GitHub">
-    </a>
-  </div>
-</div>
-<br>
 
-<p align="center">
-  <h1 align="center" >About Me</h2>
-    <ul align="center">
-        <li>🔭 I’m currently working on FrontEnd
-        <li>🌱 I’m currently learning JavaScript
-        <li>👯 I’m looking to collaborate on FrontEnd
-        <li>😄 Pronouns: He/Him
-        <li>⚡ Fun fact: Computer “bug” was inspired by a real insect‍
-    </ul>
+# 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swoyamjeetsahu/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30649259/swoyamjeet-sahu)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.swoyamjeetsahu@gmail.com)
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/swoyamjeetsahu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/swoyamjeetcodes/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/598354539271159839)
 
-</p>
- <br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<h2 align="center" >🔥 Tech Stack🔥</h2>
-<br>
-<p align="center">
-  <a href="https://devdocs.io/c/" target="_blank"><code><img title="C" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code></a>
-  <a href="https://cplusplus.com/doc/" target="_blank"><code><img title="C++" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code></a>
-  <a href="https://docs.python.org/3/" target="_blank"><code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"><code><img title="Java" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><code><img title="CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code></a>
-  <a href="https://git-scm.com/doc" target="_blank"><code><img title="Git" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code></a>
-  <a href="https://docs.github.com/" target="_blank"><code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code></a>
-</p>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Swoyamjeetcodes&theme=radical&mode=weekly" alt="GitHub Streak" /></a>
 
-  [![Swoyamjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swoyamjeetcodes&show_icons=true&theme=radical&hide=stars)](https://github.com/Swoyamjeetcodes?tab=repositories) <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swoyamjeetcodes&theme=radical&hide_border=false&line=FE428E&bg_color=141321&area=true&area_color=FF69B4&title_color=FE428E&days=10" width="100%"/><br/><br/>
-  <a href="https://github.com/Swoyamjeetcodes?tab=repositories"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swoyamjeetcodes&layout=compact&theme=radical&hide=c"/>
-  </div>
-  </a> 
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Swoyamjeetcodes&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Swoyamjeetcodes&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swoyamjeetcodes&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="center">👨‍💻Top Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center" >
-  <a href="https://github.com/Swoyamjeetcodes/MMSpace" title="MMSpace"><img allign="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=MMSpace&theme=radical&border_radius=10"></a>
-  <a href="https://github.com/Swoyamjeetcodes/ArsenalAI" title="ArsenalAI"><img allign="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=Swoyamjeetcodes&repo=ArsenalAI&theme=radical&border_radius=10"></a>
-</div>
-<br/><br/>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h4 align="center">
-  <a href="https://github.com/Swoyamjeetcodes?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+# Repositories
+<a href="https://github.com/Swoyamjeetcodes?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+
